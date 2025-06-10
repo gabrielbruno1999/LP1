@@ -1,0 +1,45 @@
+/* Atividade da Unidade 2 
+Disciplina: Linguagem de programação I
+Professor: Isaac Franco
+#Created by Gabriel Bruno 09/06/2025
+
+Objetivo da atividade:
+Aplicar conceitos de encapsulamento, herança, classes abstratas, métodos virtuais e
+virtuais puros, e polimorfismo em uma simulação de gerenciamento de funcionários.
+
+Enunciado:
+https://docs.google.com/document/d/1bBJRfoaGWzcLQ6vAu4RDE76nYCMPDc0VPVeLQy7gclM/edit?usp=sharing
+Você foi contratado para desenvolver um sistema básico de cadastro de funcionários de
+uma empresa. Os funcionários podem ser de diferentes tipos, como desenvolvedores,
+gerentes e estagiários.
+
+
+Compilação:
+Para compilar cada arquivo .cpp em .o utilize o comando: make
+Para iniciar o programa utilize o comando: ./programa
+Para limpar os arquivos gerados utilize o comando: make clean
+
+Exemplo de Saída Esperada:
+
+ID: 101
+Nome: Joana
+Tipo: Desenvolvedor
+Projetos: 3
+Salário base: 3000.00
+Salário final: 4500.00
+
+ID: 102
+Nome: Carlos
+Tipo: Estagiário
+Horas trabalhadas: 80
+Salário base: 1200.00
+Salário final: 600.00
+
+ID: 103
+Nome: Marina
+Tipo: Gerente
+Bônus: 2000.00
+Salário base: 5000.00
+Salário final: 7000.00
+
+*/
